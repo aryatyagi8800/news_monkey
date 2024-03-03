@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Bowen: US sets clearer red lines for Israel as ceasefire ends",
+            "description": "If Israel kills as many in south Gaza as the north, Biden will have to decide whether he can keep giving Israel as much support.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-67579364",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16BAA/production/_131889039_briefings_promo_bowen_alt.png",
+            "publishedAt": "2023-12-02T07:37:18.2969802Z",
+            "content": "In the end it was a diplomatic achievement that the ceasefire lasted as long as it did. Now, after a seven-day pause, Israel and Hamas are facing their greatest military and political challenges. \r\nF… [+6084 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Congo cobalt: TikTokers quit vaping over mining concerns",
+            "description": "A swell of online interest in the central African nation has young adults questioning what they puff.",
+            "url": "http://www.bbc.co.uk/news/world-africa-67569996",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18254/production/_131900989_15fbde76-47ff-400c-9275-f18b6df62818.jpg",
+            "publishedAt": "2023-12-02T04:07:13.7038918Z",
+            "content": "Dozens of young adults on TikTok are vowing to throw out their e-cigarettes and quit vaping - but not for health reasons.\r\n\"In my effort to help [the Democratic Republic of] Congo, I'm quitting vapin… [+4419 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Judge rejects Trump's immunity claim in 2020 election case",
+            "description": "Donald Trump had argued his questioning of the 2020 election fell within his presidential duties.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67598948",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/109D3/production/_130615086_judge_tanya_chutkan.jpg",
+            "publishedAt": "2023-12-02T02:52:11.7226283Z",
+            "content": "A federal judge has dismissed ex-President Donald Trump's bid to throw out charges of election interference on the basis of \"presidential immunity\". \r\nMr Trump's lawyers had argued his attempts to re… [+2819 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Feminist icon Gloria Steinem on 'lethal' desire to control wombs",
+            "description": "Bodily autonomy should be top of the women’s rights agenda, says the 89-year-old activist.",
+            "url": "http://www.bbc.co.uk/news/world-67445694",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/72BF/production/_131757392_b56a09f5-9649-4677-b89c-cb9ec3f9337c.jpg",
+            "publishedAt": "2023-12-02T02:22:11.900763Z",
+            "content": "Media caption, Gloria Steinem: The desire to control the womb is often lethal\r\nAt 89 years old, feminist icon, writer and magazine editor, Gloria Steinem has no plans to retire from a long career of … [+7994 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "COP28: Huge rise in oil drilling expected from hosts UAE",
+            "description": "The UAE's state oil company is set to be the world's second biggest producer, analysis shows.",
+            "url": "http://www.bbc.co.uk/news/science-environment-67513901",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1419A/production/_131903328_53365071207_7bf1b24128_c.jpg",
+            "publishedAt": "2023-12-02T00:37:12.5572838Z",
+            "content": "The country hosting COP28 climate talks aimed at cutting fossil fuel emissions is massively ramping up its own oil production, the BBC has learned.\r\nThe United Arab Emirates' state oil firm Adnoc may… [+5797 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Bill Gates says the rich 'owe a lot' to fix climate",
+            "description": "Who should pay for the climate crisis? “The luckiest – and I’m certainly in that group – we owe a lot to society,” Gates told BBC News.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67594533",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10F4/production/_131904340_p0gx5zjh.jpg",
+            "publishedAt": "2023-12-01T23:52:13.713814Z",
+            "content": "COP28 will be the biggest gathering of world leaders this year. One attendee of the climate conference, billionaire philanthropist Bill Gates, spoke to BBC News.\r\nThe luckiest and Im certainly in tha… [+75 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "George Santos: Embattled congressman's expulsion leaves Republicans vulnerable",
+            "description": "As the party's majority falls to just three votes, Democrats eye a chance to win a special election.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67594903",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E92/production/_131903730_gettyimages-1815419947.jpg",
+            "publishedAt": "2023-12-01T23:22:15.7289473Z",
+            "content": "On the third strike, George Santos was out. In the end, it wasn't even close.\r\nBy a 311-114 vote, the House of Representatives ousted the New York congressman, well over the two-thirds mark such a mo… [+4753 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Protester self-immolates at Atlanta Israeli consulate",
+            "description": "A demonstrator is in critical condition after what police have termed an \"extreme act\" of protest.",
+            "url": "http://www.bbc.co.uk/news/uk-67597395",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16850/production/_131904229_5058f73cd8f6fc75744dc25a461a5e84c78e77df0_0_4951_33011000x667.jpg",
+            "publishedAt": "2023-12-01T21:52:20.8540634Z",
+            "content": "A protester is in critical condition after lighting themselves on fire at the Israeli consulate in Atlanta, according to police. \r\nPolice chief Darin Schierbaum said that a Palestinian flag was found… [+377 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US House votes to expel George Santos from Congress",
+            "description": "The Republican becomes only the sixth elected member of the lower chamber of Congress ever to be removed.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67593885",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/433A/production/_131901271_gettyimages-1824779422-1.jpg",
+            "publishedAt": "2023-12-01T18:52:24.1344155Z",
+            "content": "After a damning ethics report, fraud charges and lies about his past, the US House of Representatives has expelled Congressman George Santos. \r\nLawmakers voted 311 to 114 to oust the disgraced lawmak… [+4443 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ex-Supreme Court Justice Sandra Day O'Connor dies aged 93",
+            "description": "Sandra Day O'Connor, the first woman to sit on the US Supreme Court, has died aged 93",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67593879",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-12-01T15:22:17.1032702Z",
+            "content": "Sandra Day O'Connor, the first woman to sit on the US Supreme Court, has died aged 93.\r\nShe died on Friday morning in Phoenix, Arizona due to complications related to dementia and a respiratory illne… [+621 chars]"
+        }
+    ]
+}
