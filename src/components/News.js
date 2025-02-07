@@ -44,6 +44,7 @@ const News = (props) => {
         setPage(page - 1)
         setArticles(parsedData.articles)
     }
+    
 
     const handleNextClick = async () => {
         if (!(page + 1 > Math.ceil(totalResults / props.pageSize))) {
